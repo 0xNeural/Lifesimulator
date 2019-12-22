@@ -1,0 +1,94 @@
+body{
+  background-color: #f2f2f2;
+}
+
+#logo{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#info{
+  width: 500px;
+  height: 250px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 8px;
+}
+
+#title{
+  width: 300px;
+  height: 25px;
+  margin: 0 auto;
+  font-family: 'Patua One', sans-serif;
+  text-align: center;
+  font-size: 28px;
+  line-height: 25px;
+}
+
+#line1, #line2, #line3{
+  width: auto;
+  height: 34px;
+}
+
+#namebox, #agebox, #qualbox, #locationbox, #moneybox, #jobox, #citybox, #bankbox, #relbox{
+  width: 140px;
+  height: 32px;
+  font-family: 'Patua One', sans-serif;
+
+}
+
+#nametitle, #agetitle, #qualtitle, #locationtitle, #moneytitle, #jobtitle, #citytitle, #banktitle, #reltitle{
+  width: 140px;
+  height: 16px;
+  font-family: 'Patua One' , sans-serif;
+  text-align: center;
+
+}
+
+#name, #age, #qual, #location, #money, #job, #city, #bank, #rel{
+  width: 140px;
+  height: 16px;
+  font-family: 'Montserrat' , sans-serif;
+  text-align: center;
+  line-height: 16px;
+}
+
+#agebox, #moneybox, #bankbox{
+  margin: 0 auto;
+  line-height: 15px;
+  top:50%;
+  left:50%;
+  margin:-32px 0 0 180px;
+}
+
+#qualbox, #jobox, #relbox{
+  line-height: 15px;
+  top: 50%;
+  left: 50%;
+  margin: -32px 0 0 350px;
+}
+
+/* Set.html CSS */
+
+#logobox{
+  width: auto;
+  height: 120px;
+}
+
+#logos{
+  width: 250px;
+  height: 120px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 50px;
+}
+
+#set{
+  width: 280px;
+  height: 280px;
+  border: 1px solid red;
+}
+
+.nav li a{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
